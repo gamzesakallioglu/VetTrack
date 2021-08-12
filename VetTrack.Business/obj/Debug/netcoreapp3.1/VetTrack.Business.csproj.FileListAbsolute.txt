@@ -1,8 +1,0 @@
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\bin\Debug\netcoreapp3.1\VetTrack.Business.deps.json
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\bin\Debug\netcoreapp3.1\VetTrack.Business.dll
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\bin\Debug\netcoreapp3.1\VetTrack.Business.pdb
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\obj\Debug\netcoreapp3.1\VetTrack.Business.AssemblyInfoInputs.cache
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\obj\Debug\netcoreapp3.1\VetTrack.Business.AssemblyInfo.cs
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\obj\Debug\netcoreapp3.1\VetTrack.Business.csproj.CoreCompileInputs.cache
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\obj\Debug\netcoreapp3.1\VetTrack.Business.dll
-C:\Users\www\source\repos\VetTrack\VetTrack.Business\obj\Debug\netcoreapp3.1\VetTrack.Business.pdb
