@@ -1,0 +1,8 @@
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\bin\Debug\netcoreapp3.1\VetTrack.Utility.deps.json
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\bin\Debug\netcoreapp3.1\VetTrack.Utility.dll
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\bin\Debug\netcoreapp3.1\VetTrack.Utility.pdb
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\obj\Debug\netcoreapp3.1\VetTrack.Utility.AssemblyInfoInputs.cache
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\obj\Debug\netcoreapp3.1\VetTrack.Utility.AssemblyInfo.cs
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\obj\Debug\netcoreapp3.1\VetTrack.Utility.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\obj\Debug\netcoreapp3.1\VetTrack.Utility.dll
+C:\Users\www\source\repos\VetTrack\VetTrack.Utility\obj\Debug\netcoreapp3.1\VetTrack.Utility.pdb
